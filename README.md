@@ -13,3 +13,6 @@ The dataset includes the following categories
   - inventory
 # Tools
   - SQL: programming language that is used to manage relational databases and perform various operations on the data in them.
+  - Tableau: for visualizations
+# References
+The final project presentation can be found [here](https://public.tableau.com/app/profile/annah8183/viz/InfluenzaPreparednessPlan/USFluPreparedness)
