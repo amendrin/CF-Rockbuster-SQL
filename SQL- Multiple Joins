@@ -1,5 +1,5 @@
-#SQL query with multiple joins
-Used to find the top 5 customers in the top 10 cities who have paid the highest total amounts to Rockbuster.
+--SQL query with multiple joins
+--Used to find the top 5 customers in the top 10 cities who have paid the highest total amounts to Rockbuster.
 
 SELECT C.customer_id, C.first_name, C.last_name, F.country, E. city, MAX(A.amount) AS total_amount_paid
 FROM payment A
